@@ -1,5 +1,4 @@
 ## Files
-THESE FUNCTIONS CONSUME THE FILES THEY PROCESS (only in the websites and pdfs directories)
 
 - `cleaner.py`: This script downloads a website using wget, reads and cleans the HTML files using Beautiful Soup, and saves the resulting text files in a specified directory.
 - `chunker.py`: This script splits the text files into smaller chunks, using a recursive character-based text splitter. The resulting chunks are saved in a JSONL file.
