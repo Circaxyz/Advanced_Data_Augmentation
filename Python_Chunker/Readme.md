@@ -1,8 +1,3 @@
-# Website Scraper, And PDF Chunker/Vectorizer for Pinecone DB
-
-This Python repository contains a set of scripts that allow you to scrape a website, clean the data, organize it, chunk it, and then vectorize it. The resulting vectors can be used for a variety of machine learning tasks, such as similarity search or clustering.
-Recently added a script to consume PDFs and add them to the training data as well.
-
 ## Files
 THESE FUNCTIONS CONSUME THE FILES THEY PROCESS (only in the websites and pdfs directories)
 
